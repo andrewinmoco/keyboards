@@ -2,6 +2,7 @@
     "name": "Winry315",
     "vendorId": "0xF1F1",
     "productId": "0x0315",
+    "firmwareVersion": 1,
     "keycodes": [
         "qmk_lighting"
     ],
